@@ -31,8 +31,8 @@ A fun terminal-based Python game where you guess the number between **1 and 100*
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/python-guess-number-game.git
-cd python-guess-number-game
+git clone https://github.com/niravpateljoin/python-guess-game.git
+cd python-guess-game
 
 # Create a virtual environment (optional but recommended)
 python3 -m venv venv
